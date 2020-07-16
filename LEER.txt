@@ -1,0 +1,12 @@
+Integrantes:
+
+Chambi  Saul
+Rmirez Paulo
+Salazar Jamil
+Vite Sergio
+
+Ejercio de la semana 10
+https://github.com/SergioDanielViteCo-byte/LP2-PRUEBA
+
+Ejecicio de la semana 11
+https://github.com/SergioDanielViteCo-byte/Insertar_Eliminar_Datos_BD
